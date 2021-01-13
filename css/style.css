@@ -1,7 +1,15 @@
-.card{
+.panda-slide{
+    background-color: mediumpurple;
+    border-radius: 5px;
+}
+.panda-card{
+    border: 0;
+    
+}
+.panda-card-footer{
+    background-color: white;
     border: 0;
 }
-.pandar-card-footer{
-    color: white;
-    border: 0;
+.size{
+    width: 100px;
 }
